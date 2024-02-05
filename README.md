@@ -1,8 +1,6 @@
 # Not used anymore
 
-It's just an example using branches.
-
-Now using git and not github!
+I strongly dislike github!!!
 
 <!--hide-->
 # Final prework project - Step by step guide
