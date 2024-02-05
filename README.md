@@ -2,6 +2,8 @@
 
 It's just an example using branches.
 
+Now using git and not github!
+
 <!--hide-->
 # Final prework project - Step by step guide
 <!--endhide-->
