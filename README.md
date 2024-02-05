@@ -1,5 +1,7 @@
 # Not used anymore
 
+It's just an example using branches.
+
 <!--hide-->
 # Final prework project - Step by step guide
 <!--endhide-->
