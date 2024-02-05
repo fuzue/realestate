@@ -1,6 +1,6 @@
 # Not used anymore
 
-I strongly dislike github!!!
+I simply adore Github! There is nothing I would rather do with my free time... Except anything else!
 
 <!--hide-->
 # Final prework project - Step by step guide
